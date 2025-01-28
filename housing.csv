@@ -1,0 +1,475 @@
+id,bhk,type,area_sq_ft,location,price_lakh,carpet_area,status,bathrooms
+1,3,Independent,1100,Rajajipuram,38.92845,720,StatusReady,2.0
+2,3,Independent,1200,Sarojini Nagar,39.93149,,StatusUnder,2.0
+3,2,Independent,1250,Jankipuram,48.35146,1000,StatusReady,2.0
+4,3,Independent,1320,Omaxe City,43.65167,900,StatusReady,3.0
+5,3,Independent,900,Vrindavan Yojna,38.768707,,StatusReady,2.0
+6,2,Independent,1350,Matiyari,44.455185,1120,StatusReady,2.0
+7,3,Independent,1219,Bhitauli,42.97375,,StatusReady,2.0
+8,2,Independent,836,Kalyanpur West,38.017574,,StatusReady,2.0
+9,3,Independent,1350,Fazullaganj,43.551136,,StatusReady,2.0
+10,3,Independent,1030,IBIS,39.668663,300,StatusReady,2.0
+11,2,Independent,850,Jankipuram,30.714722,600,StatusUnder,1.0
+12,2,Villa,955,Samridhi Udyan 2,32.63522,800,StatusReady,2.0
+13,2,Independent,1000,Rajajipuram,32.084126,800,StatusReady,2.0
+14,1,Independent,720,Sarojini Nagar,27.778175,720,StatusUnder,1.0
+15,2,Independent,1050,Bakshi Ka Talab,37.54488,840,StatusUnder,2.0
+16,3,Independent,1450,Aurangabad,43.404957,1000,StatusUnder,2.0
+17,2,Independent,1500,Jankipuram,47.25663,1250,StatusReady,2.0
+18,3,Independent,800,Neel Matha,29.295427,800,StatusReady,2.0
+19,2,Independent,900,Neel Matha,30.711397,750,StatusReady,2.0
+20,2,Independent,950,Vrindavan Yojna,29.07642,950,StatusReady,1.0
+21,3,Independent,1050,Alambagh,45.806973,1000,StatusReady,2.0
+22,2,Villa,650,Vrindavan Yojna,29.03765,630,StatusReady,1.0
+23,2,Independent,1100,Kanausi,34.22081,1100,StatusUnder,1.0
+24,3,Independent,1100,Omaxe City,39.326965,,StatusReady,3.0
+25,1,Independent,600,Alambagh,27.954716,500,StatusReady,1.0
+26,2,Villa,1000,Anora Kala,39.039703,,StatusReady,1.0
+27,2,Independent,1100,Jankipuram,39.790825,700,StatusReady,2.0
+28,2,Independent,1000,Sharda Nagar,38.612736,750,StatusReady,2.0
+29,2,Villa,1180,Bharavara,43.119526,920,StatusReady,2.0
+30,2,Independent,1100,Jankipuram,44.135883,1000,StatusReady,2.0
+31,3,Villa,1350,Faizabad Road,45.939014,,StatusReady,2.0
+32,3,Villa,1535,Bijnor Road,45.06727,,StatusReady,5.0
+33,3,Villa,1000,Sultanpur Road,43.858723,,StatusReady,2.0
+34,2,Villa,1150,Jankipuram,43.38906,1000,StatusReady,2.0
+35,2,Villa,1100,Gomti Nagar,47.583908,1000,StatusReady,3.0
+36,2,Villa,1200,Mohanlalganj,37.38161,1000,StatusReady,2.0
+37,3,Villa,1560,Gosainganj,45.801132,,StatusReady,2.0
+38,2,Villa,1265,Alambagh,46.688725,,StatusReady,3.0
+39,2,Independent,1000,Mati,33.226242,1000,StatusUnder,2.0
+40,2,Independent,1250,Jankipuram,44.0704,950,StatusReady,2.0
+41,2,Independent,1000,Jankipuram,42.87713,,StatusReady,2.0
+42,2,Independent,903,Jankipuram,35.588276,,StatusReady,2.0
+43,2,Independent,1002,Jankipuram,42.626877,,StatusReady,2.0
+44,2,Independent,1261,Jankipuram,47.5104,,StatusReady,2.0
+45,2,Independent,901,Jankipuram,35.436153,,StatusReady,2.0
+46,2,Independent,1150,Jankipuram,43.446087,900,StatusReady,2.0
+47,2,Independent,1250,Jankipuram,46.385838,1100,StatusReady,2.0
+48,2,Independent,900,Jankipuram,35.436153,,StatusReady,2.0
+49,2,Independent,1260,Jankipuram,47.5104,1160,StatusReady,2.0
+50,2,Independent,1200,Jankipuram,45.800003,,StatusReady,2.0
+51,2,Independent,1001,Jankipuram,42.630753,,StatusReady,2.0
+52,2,Independent,1001,Jankipuram,42.630753,,StatusReady,2.0
+53,2,Independent,1201,Jankipuram,46.13761,,StatusReady,2.0
+54,2,Independent,1005,Jankipuram,43.375843,,StatusReady,2.0
+55,2,Independent,1264,Jankipuram,47.319492,,StatusReady,2.0
+56,3,Villa,1200,Jankipuram,41.24247,800,StatusReady,3.0
+57,1,Independent,750,Jankipuram,31.082764,650,StatusReady,2.0
+58,2,Independent,1100,Jankipuram,44.135883,1000,StatusReady,2.0
+59,2,Independent,1000,Neel Matha,37.036427,900,StatusReady,2.0
+60,2,Independent,1200,Cantonment,33.81808,700,StatusReady,2.0
+61,2,Independent,1300,Neel Matha,36.848698,600,StatusReady,2.0
+62,2,Independent,1000,Neel Matha,37.036427,900,StatusReady,2.0
+63,2,Independent,1000,Cantonment,39.462498,900,StatusReady,2.0
+64,2,Independent,1100,Cantonment,36.624893,1000,StatusReady,2.0
+65,1,Independent,1100,Neel Matha,35.94788,1000,StatusReady,2.0
+66,2,Independent,1000,Cantonment,39.462498,900,StatusReady,2.0
+67,2,Independent,1000,Neel Matha,37.036427,900,StatusReady,2.0
+68,2,Independent,1150,Jankipuram,45.349342,1010,StatusReady,2.0
+69,2,Independent,1125,Jankipuram,45.651714,1025,StatusReady,2.0
+70,2,Independent,1200,Jankipuram,44.93146,1100,StatusReady,2.0
+71,2,Independent,1000,Jankipuram,42.87713,875,StatusReady,2.0
+72,2,Independent,1200,Jankipuram,44.93146,1100,StatusReady,2.0
+73,3,Independent,1250,Omaxe City,43.03479,1100,StatusUnder,3.0
+74,2,Independent,850,Malhaur,37.679802,850,StatusReady,2.0
+75,2,Independent,1035,Jankipuram,44.658337,,StatusReady,2.0
+76,3,Independent,1200,Bhitauli,39.976437,,StatusReady,2.0
+77,2,Independent,620,Fazullaganj,27.974577,620,StatusReady,2.0
+78,3,Independent,1450,Samridhi Udyan 2,43.091225,1000,StatusReady,3.0
+79,3,Independent,1450,Omaxe City,43.39835,1000,StatusUnder,3.0
+80,2,Independent,1300,Uattardhona,46.416416,,StatusReady,2.0
+81,2,Independent,1000,Jankipuram,42.87713,,StatusReady,2.0
+82,2,Independent,1050,Jankipuram,44.60899,749,StatusReady,2.0
+83,3,Independent,1300,Jankipuram,47.508137,1000,StatusReady,3.0
+84,2,Independent,1020,Jankipuram,44.532223,,StatusReady,2.0
+85,2,Independent,700,Jankipuram,30.413996,600,StatusReady,1.0
+86,2,Independent,1010,Jankipuram,44.225285,,StatusReady,2.0
+87,2,Independent,800,Jankipuram,32.13385,700,StatusReady,2.0
+88,2,Independent,1250,Safedabad,46.286144,1250,StatusReady,2.0
+89,2,Independent,875,Jankipuram,35.416058,875,StatusReady,2.0
+90,2,Independent,850,Jankipuram,35.63733,850,StatusReady,2.0
+91,2,Independent,800,Jankipuram,32.13385,700,StatusReady,2.0
+92,3,Independent,1550,Jankipuram,47.26967,,StatusReady,2.0
+93,2,Independent,1100,Jankipuram,44.599644,,StatusReady,2.0
+94,2,Independent,1200,Bharavara,39.599983,,StatusReady,2.0
+95,2,Villa,1200,Malhaur,45.73409,835,StatusUnder,2.0
+96,2,Villa,1250,Jankipuram,46.13896,1080,StatusReady,2.0
+97,2,Independent,850,Bharavara,36.26347,,StatusUnder,2.0
+98,2,Independent,1300,Indraprastha,44.893562,,StatusReady,2.0
+99,2,Independent,1200,Anora Kala,39.599983,,StatusReady,2.0
+100,2,Independent,1250,Anora Kala,45.74175,,StatusReady,2.0
+101,2,Villa,1050,Alambagh,46.709366,,StatusReady,2.0
+102,2,Independent,1050,Alambagh,45.845352,1000,StatusReady,2.0
+103,2,Independent,622,Halwasiya,27.836733,622,StatusUnder,1.0
+104,2,Independent,1285,Indira Nagar,40.51824,800,StatusUnder,2.0
+105,2,Independent,1285,Indira Nagar,41.114864,820,StatusReady,2.0
+106,2,Villa,900,Mubarakpur,37.60026,850,StatusReady,2.0
+107,3,Independent,1550,Bijnor Road,43.722107,1100,StatusReady,3.0
+108,2,Independent,700,Jankipuram,32.029625,680,StatusReady,2.0
+109,2,Independent,800,Kursi Road,33.973957, ,StatusReady,2.0
+110,2,Villa,1250,Uattardhona,45.651653, ,StatusReady,2.0
+111,2,Villa,1200,Hitashieempire,42.849827, ,StatusReady,2.0
+112,2,Villa,1250,Safedabad,45.38237, ,StatusReady,2.0
+113,2,Independent,800,Takrohi,41.04321,799,StatusReady,2.0
+114,2,Independent,1000,Malhaur,42.76171,999,StatusReady,2.0
+115,2,Independent,1000,Gomti Nagar,44.69003,999,StatusReady,2.0
+116,2,Independent,800,Ismailganj,41.04321,799,StatusReady,2.0
+117,2,Independent,800,Chinhut,41.04321,799,StatusReady,2.0
+118,2,Independent,800,Surendra Nagar,41.04321,799,StatusReady,2.0
+119,2,Independent,800,Harihar Nagar,41.04321,799,StatusReady,2.0
+120,2,Independent,800,Munshi Pulia,41.04321,799,StatusReady,2.0
+121,2,Independent,800,Indira Nagar,39.051403,799,StatusReady,2.0
+122,2,Villa,1250,Safedabad,45.38237,,StatusReady,2.0
+123,2,Villa,1000,Safedabad,45.40992,,StatusReady,2.0
+124,2,Villa,1250,Amity University Road,49.218822,,StatusReady,2.0
+125,2,Villa,750,Amity University Road,36.342342,,StatusReady,2.0
+126,2,Villa,1250,Safedabad,47.005013,1000,StatusReady,2.0
+127,2,Independent,1250,Faizabad Road,48.0763,1000,StatusReady,2.0
+128,2,Villa,1250,Faizabad Road,47.51899,1000,StatusReady,2.0
+129,2,Villa,800,Amity University Road,38.59339,,StatusReady,2.0
+130,2,Villa,1000,Kursi Road,30.00416,740,StatusReady,2.0
+131,2,Independent,1000,Sitapur Road,25.104088,740,StatusReady,2.0
+132,2,Villa,1000,Sitapur Road,25.171099,740,StatusReady,2.0
+133,2,Villa,1250,Safedabad,45.38237,,StatusReady,2.0
+134,2,Villa,900,Sitapur Road,22.440475,700,StatusReady,2.0
+135,2,Independent,800,Gomti Nagar,38.681217,799,StatusReady,2.0
+136,2,Villa,1000,Kursi Road,30.00416,740,StatusReady,2.0
+137,2,Independent,800,Devaroad,41.04321,799,StatusReady,2.0
+138,2,Independent,800,Chinhat,36.33356,799,StatusReady,3.0
+139,2,Independent,800,Matiyari,41.072758,799,StatusReady,3.0
+140,3,Villa,1250,Amity University Road,49.28436,,StatusReady,2.0
+141,3,Villa,1200,Chinhut,42.679646,,StatusReady,2.0
+142,2,Independent,1200,Raebareli Road,36.976025,1000,StatusReady,2.0
+143,2,Independent,1000,Kursi Road,29.78316,740,StatusReady,2.0
+144,2,Independent,1200,Bakshi Ka Talab,39.599983,,StatusReady,2.0
+145,2,Independent,901,Sitapur Road,22.550764,700,StatusReady,2.0
+146,2,Villa,1001,Kursi Road,30.164036,740,StatusReady,2.0
+147,2,Independent,900,Sitapur Road,22.464222,700,StatusReady,2.0
+148,2,Independent,1250,Bijnor,43.76385,1000,StatusReady,1.0
+149,3,Villa,1150,Gomti Nagar,48.393826,1000,StatusReady,2.0
+150,2,Villa,1250,Uattardhona,45.651653,,StatusReady,2.0
+151,2,Villa,1000,Anora Kala,43.56823,,StatusReady,2.0
+152,2,Villa,750,Amity University Road,36.342342,,StatusReady,2.0
+153,1,Independent,700,Sugamau Road,27.755247,620,StatusReady,1.0
+154,2,Villa,1000,Kursi Road,30.00416,740,StatusReady,2.0
+155,2,Independent,1000,Sitapur Road,25.104088,740,StatusReady,2.0
+156,2,Independent,1200,Sitapur Road,36.01924,934,StatusReady,2.0
+157,2,Independent,1000,Sitapur Road,25.104088,740,StatusReady,2.0
+158,2,Villa,1200,Sitapur Road,37.254597,934,StatusReady,2.0
+159,2,Independent,800,Munshi Pulia,41.04321,799,StatusReady,2.0
+160,2,Independent,800,Indira Nagar,37.137978,790,StatusReady,2.0
+161,2,Independent,800,Surendra Nagar,41.04321,799,StatusReady,2.0
+162,2,Independent,800,Chinhut,37.5669,799,StatusReady,1.0
+163,2,Independent,800,Takrohi,37.7,790,StatusReady,2.0
+164,2,Independent,800,Harihar Nagar,41.04321,799,StatusReady,2.0
+165,2,Independent,800,Munshi Pulia,41.04321,799,StatusReady,2.0
+166,2,Independent,800,Indira Nagar,39.051403,799,StatusReady,2.0
+167,2,Independent,1001,Kursi Road,29.978054,740,StatusReady,2.0
+168,2,Villa,1200,Chinhat,48.44151,,StatusReady,2.0
+169,2,Independent,1001,Sitapur Road,25.43806,740,StatusReady,1.0
+170,2,Villa,1400,Chinhat,47.706627,,StatusReady,2.0
+171,2,Villa,1000,Chinhat,47.984592,,StatusReady,2.0
+172,2,Villa,1250,Uattardhona,45.651653,,StatusReady,2.0
+173,2,Villa,1001,Kursi Road,30.164036,740,StatusReady,2.0
+174,2,Villa,901,Sitapur Road,22.53235,700,StatusReady,2.0
+175,3,Independent,1260,Vikas Nagar,45.096756,1000,StatusReady,3.0
+176,2,Villa,1000,Amity University Road University Road,43.56823,,StatusReady,2.0
+177,2,Villa,1000,Amity University Road,45.2556,,StatusReady,2.0
+178,2,Villa,1250,Amity University Road,49.218822,,StatusReady,2.0
+179,2,Villa,1250,Uattardhona,45.651653,,StatusReady,2.0
+180,2,Villa,1000,Lucknow Road,27.520575,740,StatusReady,2.0
+181,2,Villa,800,Amity University Road,38.59339,,StatusReady,2.0
+182,2,Villa,1000,Uattardhona,47.36372,,StatusReady,2.0
+183,2,Independent,800,Indira Nagar,39.051403,799,StatusReady,2.0
+184,2,Villa,1250,Tiwariganj,47.9386,,StatusReady,2.0
+185,2,Villa,1250,Safedabad,47.005013,1000,StatusReady,2.0
+186,2,Villa,1000,Safedabad,45.40992,,StatusReady,2.0
+187,2,Independent,866,Raibareilly Road,29.713902,800,StatusReady,2.0
+188,2,Independent,1006,Kursi Road,34.640957,740,StatusUnder,2.0
+189,3,Independent,1300,Sultanpur Road,43.979176,1200,StatusReady,2.0
+190,3,Villa,1300,Sultanpur Road,46.409073,1200,StatusUnder,2.0
+191,2,Independent,900,Raibareilly Road,29.052008,800,StatusUnder,2.0
+192,2,Villa,1350,Malhaur,46.55284,1100,StatusUnder,2.0
+193,2,Villa,1250,Gomti Nagar,46.77257,1100,StatusReady,2.0
+194,2,Independent,1000,Raibareilly Road,30.630558,950,StatusReady,2.0
+195,2,Villa,1200,Raibareilly Road,36.926586,1000,StatusUnder,2.0
+196,2,Independent,1000,Kursi Road,34.648888,704,StatusReady,2.0
+197,2,Independent,900,Bakshi Ka Talab Talab,35.344666,,StatusUnder,2.0
+198,2,Independent,1000,Kursi Road,34.648888,,StatusReady,2.0
+199,2,Independent,1000,Kursi Road,35.573135,900,StatusReady,2.0
+200,2,Independent,1000,Bakshi Ka Talab Talab,39.462498,900,StatusReady,2.0
+201,2,Independent,966,Kursi Road,34.30339,734,StatusReady,2.0
+202,2,Independent,1000,Sitapur Road,34.374676,900,StatusUnder,2.0
+203,2,Independent,1100,Sitapur Road,36.346134,,StatusReady,2.0
+204,2,Independent,966,Kursi Road,34.176777,,StatusUnder,2.0
+205,2,Independent,1000,Kursi Road,34.504517,,StatusUnder,2.0
+206,2,Independent,1000,Bakshi Ka Talab Talab,38.612736,,StatusReady,2.0
+207,2,Independent,1250,Kursi Road,40.814957,977,StatusReady,2.0
+208,2,Independent,1200,Bakshi Ka Talab Talab,39.452248,,StatusUnder,2.0
+209,2,Independent,1003,Sitapur Road,25.576105,740,StatusReady,2.0
+210,2,Villa,1003,Kursi Road,30.49166,740,StatusReady,2.0
+211,2,Independent,1000,Bakshi Ka Talab Talab,27.295944,740,StatusReady,2.0
+212,2,Independent,1000,Gomti Nagar,44.69003,999,StatusReady,2.0
+213,4,Independent,1478,Royal City,42.547287,1000,StatusReady,2.0
+214,2,Villa,1000,Faizabad Road,46.182293,,StatusUnder,2.0
+215,2,Villa,1250,Faizabad Road,47.51899,1000,StatusReady,2.0
+216,1,Independent,440,Vrindavan Yojna,17.177155,430,StatusReady,1.0
+217,3,Independent,1500,Aurangabad Khalsa,42.193363,,StatusReady,2.0
+218,2,Villa,1250,Chinhat,48.411045,1000,StatusReady,2.0
+219,2,Villa,1250,Anora Kala,47.9386,,StatusReady,2.0
+220,2,Villa,1250,Chinhat,48.411045,1000,StatusReady,2.0
+221,2,Villa,1000,Safedabad,45.40992,,StatusReady,2.0
+222,3,Independent,1400,Sitapur Road,41.46239,1000,StatusReady,2.0
+223,2,Villa,750,Amity University Road,36.174755,,StatusUnder,2.0
+224,2,Villa,1250,Faizabad Road,46.06278,,StatusReady,2.0
+225,2,Villa,1000,Malhaur,46.448193,,StatusReady,2.0
+226,2,Villa,1250,Faizabad Road,47.51899,1000,StatusReady,2.0
+227,3,Villa,1200,Gomti Nagar,48.418343,,StatusReady,2.0
+228,2,Independent,900,Bakshi Ka Talab Talab,25.591415,700,StatusReady,2.0
+229,2,Villa,1250,Faizabad Road,47.51899,1000,StatusReady,2.0
+230,2,Villa,1000,Uattardhona,47.36372,,StatusReady,2.0
+231,2,Villa,1250,Uattardhona,45.651653,,StatusReady,2.0
+232,2,Villa,1250,Janki,47.69419,1000,StatusReady,2.0
+233,2,Villa,1200,Faizabad Road,45.53333,1000,StatusReady,2.0
+234,2,Villa,1250,Gomti Nagar,47.885624,1000,StatusReady,2.0
+235,2,Villa,1250,Chinhat,47.003864,,StatusUnder,2.0
+236,2,Villa,1250,Chinhat,48.448257,1000,StatusUnder,2.0
+237,2,Villa,1250,Rama Degree College Road,47.69419,1000,StatusReady,2.0
+238,2,Villa,1250,Malhaur,48.30471,1000,StatusReady,2.0
+239,2,Villa,1350,Chinhat,46.489452,1100,StatusReady,2.0
+240,2,Villa,1250,Rama Degree College Road,47.9386,,StatusReady,2.0
+241,2,Villa,1000,Faizabad Road,46.297073,,StatusReady,2.0
+242,2,Villa,1000,Gomti Nagar,47.68799,,StatusReady,2.0
+243,2,Villa,1200,Raibareilly Road,37.38161,1000,StatusReady,2.0
+244,2,Villa,1200,Faizabad Road,44.9381,1100,StatusReady,2.0
+245,4,Independent,1000,Bijnor Road,41.630623,220,StatusReady,2.0
+246,2,Villa,1250,Bbd College,47.69419,1000,StatusReady,2.0
+247,2,Villa,1200,Faizabad Road,43.99222,,StatusReady,2.0
+248,2,Villa,1250,Malhaur,48.30471,1000,StatusReady,2.0
+249,2,Villa,1350,Chinhat,46.489452,1100,StatusReady,2.0
+250,2,Villa,1250,Chinhat,46.425148,1100,StatusReady,2.0
+251,2,Villa,1100,Faizabad Road,44.90575,,StatusReady,2.0
+252,2,Villa,1100,Chinhat,47.795444,,StatusReady,2.0
+253,2,Independent,1000,Chinhat,44.94327,,StatusReady,2.0
+254,2,Villa,1250,Rama Degree College Road,47.9386,,StatusReady,2.0
+255,2,Villa,1250,Uattardhona,45.651653,,StatusReady,2.0
+256,2,Villa,1250,Uattardhona,45.651653,,StatusReady,2.0
+257,2,Villa,1250,Faizabad Road,47.51899,1000,StatusReady,2.0
+258,2,Villa,1000,Faizabad Road,46.297073,,StatusReady,2.0
+259,2,Villa,1200,Faizabad Road,43.99222,,StatusReady,2.0
+260,2,Villa,1250,Faizabad Road,46.06278,,StatusReady,2.0
+261,2,Villa,1250,Chinhat,47.108036,,StatusReady,2.0
+262,3,Villa,1500,Amity University Road,49.584442,,StatusReady,2.0
+263,2,Villa,1200,Chinhat,48.44151,,StatusReady,2.0
+264,2,Villa,1250,Faizabad Road,46.06278,,StatusReady,2.0
+265,2,Villa,1200,Faizabad Road,43.99222,,StatusReady,2.0
+266,2,Villa,800,Amity University Road,38.59339,,StatusReady,2.0
+267,2,Villa,1250,Amity University Road,49.218822,,StatusReady,2.0
+268,2,Villa,1000,Gomti Nagar,47.68799,999,StatusReady,2.0
+269,2,Villa,750,Amity University Road,36.342342,,StatusReady,2.0
+270,2,Independent,1250,Vijay Nagar,46.225906,1000,StatusReady,2.0
+271,2,Independent,1250,Faizabad Road,46.41817,1008,StatusReady,2.0
+272,2,Villa,1250,Faizabad Road,46.06278,1008,StatusReady,2.0
+273,2,Villa,1200,Faizabad Road,45.53333,1000,StatusReady,2.0
+274,2,Villa,1250,Faizabad Road,47.51899,1000,StatusReady,2.0
+275,2,Independent,700,Jankipuram,30.413996,600,StatusReady,1.0
+276,2,Villa,995,Sadrauna,33.923695,800,StatusReady,2.0
+277,2,Villa,1165,Krishna Nagar,43.10358,936,StatusReady,2.0
+278,2,Villa,1000,Faizabad Road,46.182293,,StatusUnder,2.0
+279,2,Villa,1250,Bijnor Road,45.0507,,StatusReady,2.0
+280,2,Villa,1200,Faizabad Road,43.99222,,StatusReady,2.0
+281,3,Villa,1500,Amity University Road,49.584442,,StatusReady,2.0
+282,2,Villa,1200,Anora Kala,42.849827,,StatusReady,2.0
+283,2,Villa,1250,Tiwariganj,47.610355,1000,StatusUnder,2.0
+284,2,Independent,1200,Kursi Road,36.44344,934,StatusReady,2.0
+285,2,Independent,1250,Faizabad Road,48.113712,1000,StatusUnder,2.0
+286,2,Villa,1250,Malhaur,47.458977,,StatusReady,
+287,2,Independent,1000,Kursi Road,29.526651,740,StatusReady,1.0
+288,2,Villa,1000,Chinhat,47.984592,,StatusReady,2.0
+289,2,Villa,900,Sitapur Road,22.440475,700,StatusReady,2.0
+290,2,Independent,1002,Kursi Road,30.170265,740,StatusReady,2.0
+291,2,Independent,1200,Sitapur Road,32.43041,740,StatusReady,2.0
+292,2,Independent,1004,Kursi Road,30.793324,740,StatusReady,2.0
+293,2,Villa,1000,Bakshi Ka Talab,27.520575,740,StatusReady,2.0
+294,2,Independent,1001,Sitapur Road,25.217651,740,StatusReady,2.0
+295,2,Independent,900,Kursi Road,29.780415,740,StatusReady,2.0
+296,2,Villa,1250,Faizabad Road,46.613235,1000,StatusReady,1.0
+297,2,Villa,1100,Faizabad Road,44.90575,,StatusReady,2.0
+298,2,Villa,1250,Faizabad Road,46.06278,,StatusReady,2.0
+299,2,Independent,1000,Gomti Nagar,44.69003,,StatusReady,2.0
+300,2,Villa,1250,Faizabad Road,45.755615,,StatusUnder,2.0
+301,2,Villa,1250,Uattardhona,45.651653,,StatusReady,2.0
+302,2,Villa,1200,Faizabad Road,44.9381,1100,StatusReady,2.0
+303,2,Villa,1250,Faizabad Road,47.51899,1000,StatusReady,2.0
+304,2,Villa,1200,Faizabad Road,43.99222,,StatusReady,2.0
+305,2,Villa,1200,Gomti Nagar,48.44724,,StatusReady,2.0
+306,2,Villa,1250,Chinhat,48.411045,1000,StatusReady,2.0
+307,2,Villa,1250,Chinhat,47.108036,,StatusReady,2.0
+308,2,Villa,1200,Faizabad Road,43.99222,,StatusReady,2.0
+309,2,Villa,1000,Amity University Road,45.2556,,StatusReady,2.0
+310,2,Villa,1000,Amity University Road,45.2556,,StatusReady,2.0
+311,2,Villa,800,Amity University Road,38.59339,,StatusReady,2.0
+312,2,Independent,800,Gosainganj,36.76696,,StatusUnder,2.0
+313,1,Studio,450,Gosainganj,18.043446,,StatusUnder,2.0
+314,2,Independent,900,Dubagga,29.052008,800,StatusUnder,2.0
+315,2,Independent,1200,Dubagga,39.452248,,StatusUnder,2.0
+316,2,Villa,1250,Faizabad Road,47.52462,1000,StatusUnder,2.0
+317,2,Villa,1000,Faizabad Road,46.297073,,StatusReady,2.0
+318,3,Villa,1500,Sultanpur Road,45.817463,,StatusReady,2.0
+319,2,Independent,1125,Sikander Pur,40.518196,,StatusUnder,2.0
+320,3,Independent,950,Mawaiya,40.96288,,StatusReady,2.0
+321,3,Independent,1500,Aashiyana,42.099194,1500,StatusReady,3.0
+322,2,Independent,900,Alambagh,29.39494,600,StatusReady,2.0
+323,3,Independent,1550,Bijnor Road,43.90808,1100,StatusUnder,2.0
+324,3,Independent,1350,Para Road,43.80513,900,StatusUnder,3.0
+325,4,Independent,1100,Balaganj,38.892662,,StatusReady,2.0
+326,4,Independent,1200,Para Road,39.940647,,StatusReady,2.0
+327,2,Independent,1150,Iim Road,38.663883,900,StatusReady,2.0
+328,2,Independent,530,Indira Nagar,28.141123,504,StatusUnder,3.0
+329,2,Independent,1250,Faizabad Road,48.0763,1000,StatusReady,2.0
+330,4,Villa,1000,Safedabad,35.807716,700,StatusReady,2.0
+331,2,Villa,1000,Kursi Road,37.82337,,StatusReady,2.0
+332,2,Independent,804,Sitapur Road,29.45006,750,StatusReady,1.0
+333,2,Independent,450,Sitapur Road,18.078463,420,StatusReady,2.0
+334,1,Independent,1000,Sarojini Nagar,32.695824,748,StatusReady,1.0
+335,2,Villa,1200,Iim Road,40.455307,750,StatusReady,2.0
+336,3,Independent,1255,Mohanlalganj,45.1265,1200,StatusReady,3.0
+337,3,Villa,1250,South City,46.829475,924,StatusReady,3.0
+338,1,Independent,1000,Dubagga,37.752075,900,StatusReady,2.0
+339,3,Independent,700,Kursi Road,32.701046,,StatusReady,2.0
+340,3,Independent,960,Iim Road,38.42296,930,StatusReady,3.0
+341,2,Villa,645,Gosainganj,30.476921,422,StatusReady,3.0
+342,3,Independent,850,Omaxe City,27.35386,700,StatusUnder,2.0
+343,2,Independent,804,Kanpur Road,21.486576,775,StatusReady,2.0
+344,2,Independent,925,Customize,37.066093,,StatusReady,2.0
+345,2,Villa,1410,Villa,47.207146,,StatusReady,2.0
+346,2,Villa,1000,Hitashie Empire,42.356155,,StatusUnder,2.0
+347,2,Villa,800,Villa,37.76204,,StatusUnder,2.0
+348,2,Villa,1250,2Bhk,47.9386,,StatusReady,2.0
+349,2,Independent,1250,Krishna,45.74175,,StatusReady,2.0
+350,2,Villa,800,Amity University Road,38.59339,,StatusReady,2.0
+351,2,Independent,1000,Kanpur Lucknow,30.630558,950,StatusReady,2.0
+352,3,Independent,1500,Purvanchal,42.099194,1124,StatusReady,3.0
+353,2,Independent,1150,Jankipuram Garden,38.085503,1000,StatusReady,2.0
+354,2,Villa,950,Indira Nagar,24.05676,600,StatusReady,2.0
+355,2,Independent,1200,Kursi Road,36.44344,,StatusReady,2.0
+356,2,Independent,1000,Smart,38.612736,960,StatusReady,2.0
+357,2,Independent,1032,Rukmani,37.104103,1000,StatusReady,2.0
+358,2,Independent,972,Hira,39.270096,,StatusReady,2.0
+359,2,Independent,850,Gomti Nagar,35.852356,800,StatusReady,2.0
+360,2,Independent,800,Ibis Zam,26.748678,700,StatusReady,2.0
+361,2,Independent,930,Iim Road,35.58873,850,StatusReady,2.0
+362,2,Villa,950,Ibis,41.564995,900,StatusReady,2.0
+363,2,Independent,402,Greenica,17.737606,395,StatusReady,2.0
+364,2,Villa,1100,Smart,36.033077,1000,StatusReady,2.0
+365,1,Independent,402,Dsdtiny,14.61261,375,StatusReady,1.0
+366,3,Villa,1300,Dream,45.030647,900,StatusReady,2.0
+367,3,Independent,1250,Amity University Road,47.088383,860,StatusReady,2.0
+368,2,Independent,1200,Kursi Road,35.478386,740,StatusReady,2.0
+369,2,Independent,1150,Faizabad Deva,34.688995,950,StatusReady,2.0
+370,2,Independent,1100,Faizabad Road,42.500244,,StatusReady,2.0
+371,2,Independent,804,Desire,31.566435,800,StatusReady,2.0
+372,1,Independent,402,Desire,14.61261,400,StatusReady,1.0
+373,3,Villa,1000,Gomtipuram Villasgomti,39.536644,60,StatusReady,1.0
+374,2,Independent,1100,Shipra,38.463356,500,StatusReady,2.0
+375,2,Independent,860,Gomti Nagar,34.933598,800,StatusReady,3.0
+376,3,Independent,1250,Kanpur Lucknow,44.63602,860,StatusReady,2.0
+377,3,Independent,700,Kursi Road,32.701046,650,StatusReady,2.0
+378,1,Independent,402,Sitapur Road,14.338686,395,StatusReady,1.0
+379,2,Independent,402,Kanpur Lucknow,16.264788,395,StatusReady,1.0
+380,2,Independent,1000,Kursi Road,29.78316,740,StatusReady,2.0
+381,2,Independent,900,Kanpur Lucknow,29.40174,800,StatusReady,2.0
+382,2,Independent,850,Independent,31.363539,800,StatusReady,2.0
+383,2,Independent,750,Dh2,25.788885,700,StatusReady,2.0
+384,3,Independent,1300,Gomti Nagar,43.297062,800,StatusUnder,3.0
+385,2,Independent,1050,Iim Road,38.183205,966,StatusReady,2.0
+386,2,Independent,650,Fazullaganj,24.252016,600,StatusReady,2.0
+387,2,Villa,1200,Faizabad Road,45.53333,1000,StatusReady,2.0
+388,2,Independent,1000,Kapish,39.462498,900,StatusReady,2.0
+389,2,Independent,450,Nature,18.059767,375,StatusReady,1.0
+390,2,Independent,1000,Greencity,30.630558,950,StatusReady,2.0
+391,2,Villa,1133,Ishaneeka,37.343735,1100,StatusReady,2.0
+392,2,Villa,1000,Kapish,42.73501,900,StatusReady,2.0
+393,2,Villa,1100,Green,36.033077,1000,StatusReady,2.0
+394,2,Independent,804,Kanpur Road,21.486576,775,StatusReady,2.0
+395,2,Villa,1200,Sahu Raibareilly Road,37.38161,1000,StatusReady,2.0
+396,3,Villa,1295,Lucknow Kanpur,40.88638,800,StatusReady,2.0
+397,1,Villa,402,Greenica,14.799274,400,StatusReady,1.0
+398,3,Villa,1200,Indira,40.373737,800,StatusReady,3.0
+399,1,Independent,402,Banthra Bijnore,14.61261,400,StatusReady,1.0
+400,3,Independent,1200,Dream,39.43417,800,StatusReady,3.0
+401,2,Villa,1133,Iim Road,35.423904,950,StatusReady,2.0
+402,2,Villa,1200,Faizabad Road,45.53333,1000,StatusReady,2.0
+403,3,Independent,1560,Green,40.03851,1100,StatusReady,3.0
+404,1,Independent,402,Dreams,14.61261,375,StatusReady,1.0
+405,2,Independent,402,Kanpur Road,15.763242,375,StatusReady,1.0
+406,3,Independent,1000,Kanpur Road,34.476784,975,StatusReady,3.0
+407,2,Independent,1200,Jankipuram,45.800003,1175,StatusReady,2.0
+408,3,Independent,800,Iim Road,35.803665,775,StatusReady,3.0
+409,2,Independent,1250,Indira Nagar,40.833004,1200,StatusReady,2.0
+410,3,Independent,800,Iim Road,35.704666,775,StatusReady,2.0
+411,1,Independent,402,Sitapur Road,14.338686,375,StatusReady,1.0
+412,2,Independent,804,Kanpur Road,21.486576,775,StatusReady,2.0
+413,3,Independent,1496,Chinhat,46.641247,880,StatusReady,3.0
+414,2,Independent,1000,Deva Road,37.8645,975,StatusUnder,2.0
+415,2,Independent,966,Iim Road,38.358635,900,StatusReady,2.0
+416,2,Independent,1000,Kanpur Road,33.506996,980,StatusReady,2.0
+417,2,Independent,1000,Deva Road,38.612736,980,StatusReady,2.0
+418,2,Independent,1100,Gomti Nagar,45.848503,1080,StatusReady,2.0
+419,2,Independent,600,Gomti Nagar,31.170649,580,StatusReady,2.0
+420,3,Independent,900,Gomti Nagar,38.828373,880,StatusReady,3.0
+421,2,Independent,1250,Khurram Nagar,45.74175,1230,StatusReady,2.0
+422,2,Independent,850,Gomti Nagar,37.908783,720,StatusReady,2.0
+423,2,Villa,1250,Uattardhona,45.651653,,StatusReady,2.0
+424,2,Villa,1000,Faizabad Road,46.297073,,StatusReady,2.0
+425,3,Villa,1500,Gomti Nagar,48.313152,1250,StatusReady,3.0
+426,2,Villa,750,Malhaur,36.587048,,StatusUnder,2.0
+427,2,Villa,1250,Malhaur,48.30471,1000,StatusReady,2.0
+428,3,Villa,1500,Malhaur,48.032246,,StatusReady,2.0
+429,3,Independent,1500,Malhaur,47.930943,,StatusReady,2.0
+430,2,Independent,1250,Malhaur,47.929016,,StatusReady,2.0
+431,2,Villa,750,Amity University Road,36.342342,,StatusReady,2.0
+432,3,Villa,1000,Amity University Road,45.35077,,StatusReady,2.0
+433,2,Villa,1000,Uattardhona,47.36372,,StatusReady,2.0
+434,3,Independent,1000,Jankipuram,35.477737,800,StatusReady,2.0
+435,2,Independent,1300,Iim Road,42.61619,900,StatusReady,2.0
+436,2,Independent,1150,Deva Road,38.085503,1000,StatusReady,2.0
+437,2,Independent,1170,Deva Road,37.96679,1000,StatusReady,2.0
+438,1,Independent,402,Kanpur Road,14.441081,375,StatusReady,1.0
+439,2,Independent,900,Kanpur Road,25.728561,800,StatusReady,2.0
+440,1,Independent,402,Kanpur Road,14.441081,375,StatusReady,1.0
+441,2,Independent,1170,Faizabad Road,41.78117,100,StatusReady,2.0
+442,2,Independent,1170,Faizabad Road,43.87228,1000,StatusReady,2.0
+443,2,Independent,1400,Indira Nagar,40.274517,1200,StatusReady,2.0
+444,2,Independent,1200,Nawabganj,36.976025,1000,StatusReady,2.0
+445,2,Independent,1200,Gomti Nagar,46.798325,1100,StatusReady,2.0
+446,2,Independent,1150,Krishna Nagar,39.237648,800,StatusReady,2.0
+447,2,Independent,1150,Faizabad Road,43.99748,1000,StatusReady,2.0
+448,2,Independent,1400,Indira Nagar,40.274517,1250,StatusReady,2.0
+449,2,Independent,750,Bakshi Ka Talab,24.434738,600,StatusReady,1.0
+450,2,Villa,1039,Bijnor Road,45.391083,521,StatusReady,2.0
+451,3,Villa,1617,Faizabad Road,45.80204,890,StatusUnder,3.0
+452,2,Villa,1216,Faizabad Road,43.703087,816,StatusUnder,3.0
+453,1,Independent,350,Golf City,16.390896,275,StatusUnder,2.0
+454,2,Villa,1000,Kursi Road,37.82337,934,StatusReady,2.0
+455,2,Independent,900,Sitapur Road,22.868765,700,StatusReady,1.0
+456,2,Villa,750,Amity University Road,36.342342,,StatusReady,2.0
+457,2,Villa,1000,Kursi Road,29.71788,740,StatusReady,1.0
+458,2,Villa,900,Sitapur Road,22.842054,700,StatusReady,1.0
+459,2,Independent,1150,Chinhat,47.27377,1143,StatusReady,2.0
+460,2,Villa,1000,Jankipuram Extension,43.56823,999,StatusReady,2.0
+461,2,Villa,800,Jankipuram Extension,40.535877,799,StatusReady,2.0
+462,2,Villa,1250,Faizabad Road,45.25879,1008,StatusReady,1.0
+463,2,Villa,1250,Faizabad Road,45.755615,1008,StatusUnder,2.0
+464,2,Villa,1000,Uattardhona,47.36372,,StatusReady,2.0
+465,3,Villa,1500,Amity University Road,49.06321,1000,StatusReady,3.0
+466,1,Independent,520,Jankipuram,21.709335,440,StatusReady,1.0
+467,2,Villa,1250,Uattardhona,45.651653,,StatusReady,2.0
+468,2,Villa,1250,Faizabad Road,46.06278,1015,StatusReady,2.0
+469,2,Villa,1200,Faizabad Road,45.53333,1000,StatusReady,2.0
+470,2,Villa,1300,Faizabad Road,46.149624,1100,StatusReady,2.0
+471,2,Villa,1250,Faizabad Road,47.51899,1000,StatusReady,2.0
+472,2,Independent,1200,Kursi Road,36.56566,,StatusUnder,2.0
+473,2,Independent,900,Bakshi Ka Talab,36.340622,,StatusReady,2.0
+474,2,Independent,1260,Kursi Road,41.238583,786,StatusReady,2.0
